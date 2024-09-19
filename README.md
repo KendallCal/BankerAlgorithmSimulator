@@ -1,6 +1,6 @@
 # BankerAlgorithmSimulator
 
-**BankerAlgorithmSimulator** es una aplicación desarrollada en Java para simular la administración de procesos y evitar interbloqueos en sistemas operativos utilizando el algoritmo del banquero. Este proyecto es parte del curso de Sistemas Operativos (Código: 00881) de la Universidad Estatal a Distancia (UNED) del II Cuatrimestre de 2024.
+**BankerAlgorithmSimulator** es una aplicación desarrollada en Java para simular la administración de procesos y evitar interbloqueos en sistemas operativos utilizando el algoritmo del banquero. Este proyecto es parte del curso de Sistemas Operativos de la Universidad Estatal a Distancia (UNED) del II Cuatrimestre de 2024.
 
 ## Descripción del Proyecto
 
