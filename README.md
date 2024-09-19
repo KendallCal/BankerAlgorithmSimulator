@@ -29,15 +29,5 @@ La aplicación simula la administración de procesos en un sistema operativo med
 3. Compila y ejecuta el programa.
 4. Usa la interfaz gráfica para ingresar datos de procesos y recursos, y observar la simulación del algoritmo del banquero.
 
-## Documentación Adicional
-
-El proyecto incluye un documento PDF con la siguiente información:
-
-- **Portada**
-- **Introducción**
-- **Descripción del Programa:** Cómo funciona, limitaciones, etc.
-- **Conclusiones**
-- **Bibliografía:** Mínimo de 3 referencias.
-
 Para cualquier duda o contribución, siéntete libre de abrir un *issue* o enviar un *pull request*.
 
