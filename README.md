@@ -8,7 +8,7 @@ La aplicación simula la administración de procesos en un sistema operativo med
 
 <img src="Demostración/Simulador.png" alt="Captura Simulador" width="800" />
 
-<img src="Demostración/Demo-mp4" alt="Captura Cliente" width="800" />
+También puedes ver el [Video Demostración](Demostración/Demo.mp4) completo.
 
 ### Funcionalidades Principales:
 
