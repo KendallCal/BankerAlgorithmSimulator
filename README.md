@@ -6,6 +6,10 @@
 
 La aplicación simula la administración de procesos en un sistema operativo mediante el algoritmo del banquero, evitando condiciones de interbloqueo. El sistema permite gestionar recursos y procesos de manera segura y eficiente.
 
+<img src="imagenes/Simulador.png" alt="Captura Simulador" width="800" />
+
+<img src="imagenes/Demo-mp4" alt="Captura Cliente" width="800" />
+
 ### Funcionalidades Principales:
 
 - **Simulación del Algoritmo del Banquero:** Implementa el algoritmo del banquero para evitar interbloqueos en sistemas operativos.
